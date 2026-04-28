@@ -1,7 +1,7 @@
 #q1
 %pip install seaborn
 import numpy as np
- import pandas as pd
+import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 data={"student_id":[10,np.nan,20,103,24,59,7,217,88],
